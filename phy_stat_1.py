@@ -15,6 +15,9 @@ n2 = 100
 def partie_positive(a):
     return max(0,a)
 
+
+
+
 def norme_VT():
 
 ##L'algorithme
