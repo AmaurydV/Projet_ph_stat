@@ -1,6 +1,9 @@
 #On se limite pour l'instant au cas m = 2, on adaptera les fonctions si on souhaite augmenter m
 
 ##Bibliothèques
+import numpy as np
+import scipy.special
+
 from math import *
 
 
@@ -15,7 +18,7 @@ n2 = 100
 def partie_positive(a):
     return max(0,a)
 
-def 
+def mu(
 
 
 def norme_VT():
